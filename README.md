@@ -1,2 +1,2 @@
-# artical
-Save artical here
+# Article
+Save article here
